@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-## Hi there 👋 I'm Hiranmai Devarasetty
-
 I'm a passionate **Data Scientist** pursuing my **Master's in Data Science at Northeastern University, Boston**. 
 I thrive on leveraging data to uncover meaningful insights and develop impactful solutions. Here's a bit more about me:
 

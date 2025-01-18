@@ -1,14 +1,12 @@
 ## Hi there 👋
 
-**Hiranmai28/Hiranmai28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Hi there 👋 I'm Hiranmai Devarasetty
 
 I'm a passionate **Data Scientist** pursuing my **Master's in Data Science at Northeastern University, Boston**. 
 I thrive on leveraging data to uncover meaningful insights and develop impactful solutions. Here's a bit more about me:
 
-###🛠️ I’m looking for help with:
-Exploring co-op opportunities starting Spring or Summer 2025.
+### 🛠️ I’m looking for help with:
+Exploring co-op opportunities starting Summer 2025.
 
 ### 🌱 Actively Learning:
 - Advanced techniques in **machine learning**, **deep learning**, and **data visualization**.

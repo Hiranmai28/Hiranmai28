@@ -23,3 +23,5 @@ I thrive on leveraging data to uncover meaningful insights and develop impactful
 
 ### ⚡ Fun Fact:
 I enjoy experimenting in the kitchen 🍰 and finding ways to connect my love for **baking** with **data science**—because both require precision and creativity!
+
+

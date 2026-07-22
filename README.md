@@ -1,22 +1,20 @@
 ## Hi there 👋
 
-I'm a passionate **Data Scientist** pursuing my **Master's in Data Science at Northeastern University, Boston**. 
-I thrive on leveraging data to uncover meaningful insights and develop impactful solutions. Here's a bit more about me:
+I'm an **AI and Machine Learning Engineer** and recent **Master's in Data Science** graduate from **Northeastern University, Boston**. 
+I build LLM-powered systems, data pipelines, and production ML workflows end to end, turning messy real-world data into useful products. Here's a bit more about me:
 
-
-### 🌱 Actively Learning:
-- Advanced techniques in **machine learning**, **deep learning**, and **data visualization**.
+### 🌱 Currently Exploring:
 - **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **Agentic AI** systems.
-- **Human-Computer Interaction** and designing solutions to bridge technology and user needs.
-- **Data analytics** methodologies for extracting actionable insights from complex datasets.
-
+- **Model Context Protocol (MCP)** and multi-agent orchestration for tool-using AI systems.
+- **AI Search** and **Answer Engine Optimization (AEO)** as LLMs reshape discovery.
+- **Evaluation frameworks** for LLM output quality, factuality, and safety.
+- **MLOps** and productionizing ML workflows at scale.
 
 ### 👯 Looking to Collaborate On:
 - Applications of **Generative AI** and **LLM-powered solutions** for real-world challenges.
 - Building **RAG pipelines** and **agentic AI systems** for intelligent automation.
+- **Data and analytics engineering** projects that drive product and business decisions.
 - Cutting-edge **NLP research** and **social impact** initiatives.
-- **Data analytics projects** that drive business intelligence and strategic decision-making.
-
 
 ### 📫 How to Reach Me:
 - **LinkedIn**: [Hiranmai Devarasetty](https://www.linkedin.com/in/hiranmaidev/)

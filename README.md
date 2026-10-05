@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I'm an **AI and Machine Learning Engineer** and recent **Master's in Data Science** graduate from **Northeastern University, Boston**. 
-I build LLM-powered systems, data pipelines, and production ML workflows end to end, turning messy real-world data into useful products. Here's a bit more about me:
+I'm a **data and AI practitioner** and recent **M.S. in Data Science graduate** from Northeastern University in Boston. I build **LLM-powered** systems, data pipelines, and machine learning workflows end to end, turning messy real-world data into useful products. Here's a bit more about me:
 
 ### 🌱 Currently Exploring:
 - **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **Agentic AI** systems.
